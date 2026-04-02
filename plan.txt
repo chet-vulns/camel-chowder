@@ -1,0 +1,5 @@
+Create a java spring boot application that meets the following criteria:
+1. Uses Java Spring Boot
+2. Uses Apache Camel
+3. Uses camel-api and camel-core-engine (ensure that the camel-api functionality calls the camel-core-engine)
+4. Add vulnerabilties such that their is data flow through a remote source to the use of camel and then into a sink.  Add at least 10 of these different vulnerabilities (they don't have to all be of a different CWE). 
