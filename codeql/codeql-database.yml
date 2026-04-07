@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: /Users/chetbackiewicz/security/codeql/camel-chowder
+baselineLinesOfCode: 387
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+creationMetadata:
+  sha: d0f9c4cfe54383cbc719a44fa290b967950e305c
+  cliVersion: 2.25.1
+  creationTime: 2026-04-03T00:20:37.760641Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: true
